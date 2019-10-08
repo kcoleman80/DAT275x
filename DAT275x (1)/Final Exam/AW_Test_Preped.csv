@@ -1,0 +1,501 @@
+CustomerID,Education,Occupation,Gender,MaritalStatus,NumberChildrenAtHome,YearlyIncome,Age
+18988,Bachelors ,Management,F,S,0,86931,52.0
+29135,Bachelors ,Skilled Manual,M,M,2,100125,33.0
+12156,Graduate Degree,Management,F,M,0,103985,63.0
+13749,Graduate Degree,Skilled Manual,M,M,0,127161,39.0
+27780,High School,Manual,F,M,2,21876,32.0
+16375,Partial College,Clerical,F,M,0,44467,40.0
+16109,Bachelors ,Skilled Manual,M,S,2,77702,33.0
+15606,Bachelors ,Professional,M,M,4,99418,33.0
+20888,Partial High School,Manual,M,S,4,13522,31.0
+20716,Bachelors ,Skilled Manual,F,M,1,46264,24.0
+21311,High School,Professional,F,S,1,96375,42.0
+21741,Partial College,Professional,F,M,0,77688,41.0
+20101,High School,Skilled Manual,M,M,0,52127,41.0
+28302,High School,Professional,F,M,0,60978,48.0
+14515,Partial College,Skilled Manual,F,S,0,36915,18.0
+11674,Graduate Degree,Professional,F,M,0,86445,31.0
+11539,Graduate Degree,Skilled Manual,M,M,0,113658,38.0
+14290,Partial High School,Skilled Manual,M,S,0,83326,40.0
+20615,Partial College,Management,F,S,5,142823,24.0
+14818,Partial College,Clerical,F,S,2,42704,33.0
+26973,Partial High School,Manual,M,M,0,31323,24.0
+17825,Bachelors ,Skilled Manual,M,M,0,61350,34.0
+15133,Partial High School,Professional,M,M,5,148087,24.0
+22334,Graduate Degree,Skilled Manual,M,M,0,112248,31.0
+26530,Graduate Degree,Professional,F,M,0,94217,28.0
+15411,Graduate Degree,Management,M,S,0,122711,60.0
+24792,Bachelors ,Skilled Manual,M,M,1,58716,27.0
+18812,Partial College,Professional,M,S,3,128140,34.0
+27688,Bachelors ,Professional,M,S,0,101320,34.0
+14513,Graduate Degree,Management,F,M,0,150227,29.0
+28847,Bachelors ,Skilled Manual,F,S,2,85726,29.0
+11168,Bachelors ,Management,M,S,0,125452,29.0
+18336,Bachelors ,Management,F,M,0,50463,55.0
+14382,Bachelors ,Management,M,S,0,91982,53.0
+28882,Partial College,Professional,F,M,4,135619,41.0
+23238,Partial College,Clerical,M,S,3,62347,22.0
+19098,Partial College,Management,M,M,5,157083,25.0
+15295,Graduate Degree,Skilled Manual,M,M,1,92155,26.0
+12347,Bachelors ,Professional,F,M,0,111592,22.0
+20655,Bachelors ,Skilled Manual,M,M,1,61015,27.0
+28156,Bachelors ,Professional,F,S,0,86042,29.0
+20907,Partial High School,Manual,M,S,2,16149,33.0
+22162,Partial College,Skilled Manual,M,M,0,89009,20.0
+17782,Graduate Degree,Clerical,F,M,0,71664,29.0
+25307,Bachelors ,Skilled Manual,F,M,1,54946,24.0
+14641,Partial College,Skilled Manual,M,M,0,61296,30.0
+12477,High School,Manual,F,M,2,26298,32.0
+18593,Bachelors ,Skilled Manual,F,S,3,121950,32.0
+22718,Bachelors ,Management,M,M,2,165094,32.0
+11377,Graduate Degree,Clerical,M,M,0,87346,36.0
+18875,Graduate Degree,Management,M,M,0,122359,58.0
+21972,Bachelors ,Professional,F,M,4,80468,33.0
+13420,Bachelors ,Management,F,M,2,131206,32.0
+19205,High School,Manual,M,M,0,20427,44.0
+15966,High School,Professional,F,M,0,63991,42.0
+16311,Bachelors ,Skilled Manual,M,M,0,63830,35.0
+26497,Partial College,Professional,F,M,1,66343,49.0
+27508,Partial College,Skilled Manual,M,S,0,86825,24.0
+20403,High School,Skilled Manual,M,M,0,17410,51.0
+12728,Partial College,Clerical,M,S,0,57913,18.0
+26965,Bachelors ,Clerical,F,M,0,48202,29.0
+26248,Partial High School,Clerical,M,M,0,19745,43.0
+18078,Partial College,Professional,M,M,1,88827,50.0
+15376,Partial College,Professional,F,S,3,101507,34.0
+28529,Partial College,Manual,F,S,1,23910,29.0
+16104,Bachelors ,Skilled Manual,F,S,3,92860,32.0
+13633,Bachelors ,Professional,M,S,0,121541,25.0
+26019,Graduate Degree,Management,M,M,4,141619,28.0
+19646,Partial High School,Clerical,M,S,0,39565,18.0
+12133,Partial College,Professional,F,M,4,139299,42.0
+19411,Bachelors ,Professional,F,M,3,82733,38.0
+23050,Graduate Degree,Management,M,M,0,66790,61.0
+16803,Partial College,Professional,M,M,1,102700,48.0
+25367,Partial College,Clerical,F,M,0,46284,38.0
+11018,Partial College,Clerical,M,S,0,56823,53.0
+24425,High School,Professional,F,S,3,102763,37.0
+19505,Partial College,Clerical,M,S,4,63530,19.0
+27759,Bachelors ,Skilled Manual,F,S,3,38524,32.0
+12996,Bachelors ,Professional,F,M,0,122214,27.0
+17519,Partial College,Professional,F,M,0,58812,23.0
+19145,Bachelors ,Skilled Manual,F,M,3,96408,32.0
+18746,Partial College,Skilled Manual,M,S,0,80326,40.0
+12607,Graduate Degree,Clerical,F,M,0,65596,37.0
+21435,Bachelors ,Management,M,S,0,170887,32.0
+11569,Bachelors ,Clerical,M,M,1,57415,31.0
+23800,Partial High School,Clerical,F,M,1,19824,40.0
+21618,Graduate Degree,Professional,M,M,0,108839,31.0
+26089,Bachelors ,Management,M,S,3,163183,36.0
+11551,High School,Manual,M,S,3,40146,30.0
+21268,Bachelors ,Management,F,M,0,107111,29.0
+23072,Bachelors ,Management,F,M,0,113337,57.0
+26766,Partial College,Skilled Manual,F,M,4,81034,36.0
+15407,Graduate Degree,Management,F,S,0,72787,44.0
+16381,Graduate Degree,Skilled Manual,F,S,0,102945,39.0
+13665,Partial High School,Manual,F,M,0,20560,24.0
+13409,Partial College,Professional,M,M,4,161140,42.0
+15609,Partial High School,Manual,M,S,0,16588,17.0
+18681,Graduate Degree,Skilled Manual,F,M,0,73662,24.0
+18464,High School,Skilled Manual,F,M,0,57023,45.0
+27695,Bachelors ,Professional,F,M,0,89625,35.0
+21567,High School,Management,F,M,5,89770,26.0
+27999,Graduate Degree,Management,M,S,0,118636,59.0
+11733,Partial College,Skilled Manual,F,M,0,71702,38.0
+18823,Bachelors ,Management,M,S,3,154515,35.0
+13893,Graduate Degree,Professional,M,M,0,114039,31.0
+16817,Partial College,Professional,M,M,2,98023,46.0
+26889,Partial High School,Manual,F,S,0,21984,23.0
+13339,Bachelors ,Management,F,S,0,107067,55.0
+16670,Partial College,Professional,F,S,0,87337,23.0
+16690,Graduate Degree,Management,F,M,0,143858,31.0
+22080,Partial College,Professional,F,M,4,84569,36.0
+15291,Graduate Degree,Skilled Manual,F,S,0,92946,26.0
+24355,Bachelors ,Professional,F,M,3,83958,38.0
+17502,Partial High School,Clerical,M,S,0,39320,43.0
+18358,Partial College,Skilled Manual,M,M,0,61300,18.0
+19893,High School,Professional,M,S,1,93527,45.0
+14093,Partial High School,Clerical,F,S,0,46297,20.0
+23327,Partial College,Skilled Manual,F,S,0,53441,17.0
+11069,High School,Skilled Manual,F,S,0,88333,42.0
+15778,Partial College,Professional,M,S,1,98760,40.0
+22960,Partial College,Skilled Manual,M,M,4,86846,36.0
+29269,High School,Professional,F,M,3,100001,37.0
+28245,Partial College,Professional,M,S,0,122694,41.0
+20497,Partial High School,Clerical,F,M,0,31139,53.0
+23091,Partial College,Skilled Manual,M,S,0,101616,20.0
+14418,High School,Professional,F,M,1,61458,45.0
+27497,Partial High School,Clerical,M,S,0,47048,43.0
+28577,Graduate Degree,Skilled Manual,M,M,0,140321,31.0
+22654,High School,Manual,M,S,2,40997,32.0
+13485,Graduate Degree,Management,M,M,3,174134,60.0
+22025,High School,Skilled Manual,F,S,0,40926,20.0
+28515,High School,Manual,M,M,2,18156,28.0
+26318,High School,Skilled Manual,M,M,4,64285,29.0
+11959,Partial College,Professional,F,S,0,71487,24.0
+21429,Partial College,Professional,F,M,0,73600,41.0
+21545,High School,Management,F,M,5,135451,48.0
+21848,Partial College,Professional,M,M,5,165902,44.0
+11995,Partial College,Skilled Manual,M,M,0,103153,37.0
+24675,Partial College,Professional,M,S,1,88798,48.0
+16096,Graduate Degree,Professional,M,M,0,101566,28.0
+13966,Bachelors ,Professional,M,M,0,127995,31.0
+21707,High School,Skilled Manual,F,M,0,41243,40.0
+15157,Graduate Degree,Management,M,M,3,131992,56.0
+15017,Partial College,Skilled Manual,F,S,0,30029,17.0
+19705,High School,Professional,F,S,3,79991,42.0
+14416,High School,Professional,F,M,1,80286,45.0
+24466,Partial College,Skilled Manual,F,M,0,77745,37.0
+20135,Bachelors ,Manual,F,M,0,16358,36.0
+28431,Partial High School,Manual,M,M,0,12393,22.0
+22058,High School,Skilled Manual,M,S,0,36426,19.0
+11331,Partial College,Skilled Manual,F,M,4,94374,29.0
+18320,Partial High School,Clerical,M,M,0,35783,18.0
+24761,Partial College,Clerical,M,S,0,56435,38.0
+16219,Bachelors ,Skilled Manual,M,M,0,71123,44.0
+22205,Bachelors ,Management,M,M,1,173183,39.0
+19647,Partial High School,Clerical,F,S,0,38150,18.0
+28662,Graduate Degree,Professional,M,S,0,97231,26.0
+18732,Partial College,Clerical,M,M,0,45511,65.0
+12339,Bachelors ,Professional,M,S,0,113158,21.0
+22106,Partial College,Professional,F,M,3,137500,37.0
+23305,High School,Skilled Manual,F,M,0,25568,53.0
+20290,Partial College,Skilled Manual,M,S,0,68194,21.0
+16067,Bachelors ,Skilled Manual,F,S,2,43139,28.0
+20186,High School,Skilled Manual,M,M,2,55895,36.0
+14600,Graduate Degree,Professional,F,M,5,92753,28.0
+23713,Bachelors ,Management,F,M,1,82058,50.0
+11288,Bachelors ,Management,F,M,3,157564,36.0
+27942,High School,Professional,M,S,2,121835,43.0
+25824,Bachelors ,Professional,M,M,0,140372,25.0
+12028,Partial High School,Clerical,F,S,0,40421,20.0
+26902,Graduate Degree,Clerical,M,M,0,83491,35.0
+19897,Partial College,Professional,F,S,3,83254,44.0
+18488,High School,Skilled Manual,M,M,0,82419,41.0
+15991,Graduate Degree,Management,M,M,0,109601,44.0
+13499,Graduate Degree,Clerical,F,S,0,60147,35.0
+24737,Partial High School,Clerical,F,S,0,24276,43.0
+18253,Graduate Degree,Management,F,M,5,112552,31.0
+23277,High School,Skilled Manual,M,M,0,51376,40.0
+25709,High School,Manual,F,M,1,20864,18.0
+19037,High School,Professional,M,M,4,141672,42.0
+25550,Partial College,Manual,F,M,0,24399,56.0
+26714,Partial High School,Skilled Manual,F,S,0,56795,43.0
+15593,Bachelors ,Professional,F,M,5,82264,30.0
+22018,Bachelors ,Management,M,M,0,82374,60.0
+11606,Partial High School,Manual,F,S,0,17342,22.0
+25634,Bachelors ,Professional,F,S,0,57835,31.0
+21615,Bachelors ,Skilled Manual,F,S,2,50171,30.0
+28455,Bachelors ,Manual,M,M,0,17135,36.0
+11864,Partial College,Skilled Manual,F,M,0,75962,36.0
+19197,Partial College,Clerical,F,S,2,38778,27.0
+21329,Partial High School,Skilled Manual,M,M,0,92307,43.0
+19853,Bachelors ,Management,M,M,0,108017,51.0
+27797,Bachelors ,Professional,M,M,0,63364,31.0
+17464,Graduate Degree,Management,M,M,0,119529,44.0
+12209,Bachelors ,Management,F,M,3,139058,57.0
+23621,Partial High School,Skilled Manual,F,M,2,69332,45.0
+23857,Graduate Degree,Professional,F,S,0,93395,28.0
+29388,Bachelors ,Professional,M,M,0,58400,31.0
+21348,Graduate Degree,Management,F,M,0,106486,58.0
+18788,Bachelors ,Management,F,S,4,111922,29.0
+20518,Partial College,Professional,F,M,1,69811,50.0
+25960,High School,Skilled Manual,M,M,0,83382,40.0
+22560,Partial College,Manual,F,S,0,19905,40.0
+28119,Partial College,Skilled Manual,M,S,0,109554,42.0
+21157,Bachelors ,Professional,M,M,4,113523,38.0
+23040,High School,Professional,M,M,0,99495,42.0
+13637,Partial College,Management,F,M,5,131508,25.0
+16112,Bachelors ,Professional,M,S,2,93048,34.0
+23547,Bachelors ,Management,M,S,0,67818,44.0
+27814,Partial College,Clerical,F,S,3,43937,18.0
+23382,Partial College,Skilled Manual,M,M,0,69562,36.0
+21025,High School,Manual,M,S,1,16065,27.0
+23366,Bachelors ,Skilled Manual,M,S,4,99165,33.0
+26746,Partial College,Skilled Manual,F,S,0,65560,36.0
+11870,Partial College,Skilled Manual,F,S,0,78067,30.0
+13618,Bachelors ,Professional,M,S,0,106878,21.0
+14883,Bachelors ,Skilled Manual,F,M,0,50921,44.0
+27934,High School,Professional,F,M,1,69536,53.0
+22504,Graduate Degree,Skilled Manual,M,S,0,117885,31.0
+22473,Bachelors ,Clerical,M,S,1,60168,30.0
+15621,Graduate Degree,Skilled Manual,F,S,0,58798,24.0
+16925,Partial College,Skilled Manual,M,S,0,92728,19.0
+15100,Bachelors ,Management,F,M,4,141127,51.0
+25391,Bachelors ,Skilled Manual,F,S,2,77598,28.0
+11356,Partial College,Manual,M,S,0,19615,17.0
+24930,High School,Professional,F,M,0,65832,50.0
+15341,Partial College,Professional,F,M,1,75228,46.0
+11247,Partial College,Professional,F,S,4,143980,41.0
+22652,High School,Manual,M,S,2,21982,32.0
+21284,Graduate Degree,Skilled Manual,M,M,1,70602,27.0
+15636,Partial College,Clerical,M,S,2,53262,27.0
+28003,Graduate Degree,Management,F,M,0,112110,58.0
+20285,High School,Skilled Manual,M,M,0,49490,21.0
+20140,Bachelors ,Manual,M,M,0,28276,39.0
+15959,Partial College,Professional,M,M,2,111398,35.0
+28746,Partial High School,Manual,M,M,0,32783,26.0
+26818,High School,Manual,M,S,3,18645,30.0
+28821,Bachelors ,Skilled Manual,M,M,1,99245,25.0
+23896,Bachelors ,Professional,F,S,0,62515,33.0
+23314,Partial College,Clerical,M,M,0,58022,50.0
+26510,Partial College,Professional,M,S,1,97815,48.0
+15111,High School,Professional,F,M,1,96315,46.0
+24205,Bachelors ,Clerical,F,S,0,43725,28.0
+28463,Partial College,Manual,M,S,0,15222,40.0
+20040,Graduate Degree,Professional,F,S,2,94283,34.0
+12822,Bachelors ,Clerical,F,M,0,55884,30.0
+25619,Bachelors ,Clerical,M,M,0,66952,29.0
+20280,Partial High School,Clerical,M,S,0,61985,18.0
+26392,Graduate Degree,Management,F,S,3,127056,53.0
+20513,Partial College,Professional,M,S,1,95610,50.0
+20201,Graduate Degree,Professional,F,M,5,92925,38.0
+22535,Bachelors ,Skilled Manual,F,M,1,47923,22.0
+16279,Partial High School,Manual,F,S,2,16512,34.0
+27996,Graduate Degree,Management,F,M,0,57395,60.0
+19929,Bachelors ,Management,M,M,4,129349,44.0
+22103,Partial College,Professional,F,M,3,133373,37.0
+19784,High School,Skilled Manual,F,M,0,81236,42.0
+26045,Partial High School,Skilled Manual,M,S,0,114278,41.0
+25791,Bachelors ,Management,M,S,4,127886,44.0
+24265,Partial College,Skilled Manual,M,M,0,86806,20.0
+19650,Partial College,Clerical,F,M,0,45972,58.0
+29106,High School,Skilled Manual,M,S,0,57252,22.0
+18787,Bachelors ,Management,F,M,3,107130,34.0
+22160,Partial College,Skilled Manual,M,S,0,46556,20.0
+19506,Partial College,Clerical,F,S,4,42607,19.0
+26661,Bachelors ,Professional,F,S,2,86868,29.0
+12192,Partial High School,Skilled Manual,F,S,0,74037,43.0
+29310,Bachelors ,Professional,M,S,0,101916,34.0
+16838,Bachelors ,Management,M,S,2,166027,32.0
+12103,Partial College,Professional,F,M,1,74722,48.0
+28220,Bachelors ,Professional,F,S,5,125967,31.0
+27128,Graduate Degree,Clerical,F,S,0,63683,28.0
+15420,Bachelors ,Management,M,M,0,123254,29.0
+22360,Partial College,Clerical,M,S,0,46217,39.0
+23453,Partial College,Professional,M,M,2,98101,40.0
+13526,Bachelors ,Clerical,F,M,0,27721,19.0
+24840,Partial High School,Professional,M,M,4,159590,41.0
+13102,Partial College,Professional,F,S,0,106259,40.0
+11595,High School,Manual,M,S,5,30684,18.0
+26171,High School,Skilled Manual,M,M,0,57466,22.0
+13376,Partial College,Professional,M,M,1,90264,49.0
+27313,High School,Professional,F,M,1,80264,52.0
+18778,Partial College,Skilled Manual,M,M,0,45164,23.0
+26210,Partial High School,Manual,M,S,0,13224,17.0
+22603,High School,Manual,F,S,2,11357,27.0
+15630,Partial High School,Manual,F,S,0,15482,26.0
+26578,Partial College,Skilled Manual,M,S,0,86484,22.0
+11373,Bachelors ,Clerical,F,M,0,44451,54.0
+28137,Bachelors ,Management,F,S,0,93580,39.0
+12265,High School,Manual,M,S,1,15162,38.0
+12542,Graduate Degree,Clerical,M,M,0,78757,35.0
+15479,Graduate Degree,Professional,F,M,0,78748,26.0
+14562,Bachelors ,Skilled Manual,M,M,1,57262,27.0
+13899,Graduate Degree,Professional,M,M,5,120279,28.0
+29483,Bachelors ,Clerical,M,M,0,57417,38.0
+24414,Bachelors ,Management,M,S,2,170339,35.0
+13406,Partial College,Professional,M,M,4,156936,40.0
+29406,Partial High School,Manual,F,M,0,29264,21.0
+28794,Partial College,Clerical,M,S,0,44536,38.0
+19273,Partial College,Manual,F,M,0,15192,54.0
+14063,Bachelors ,Professional,F,S,0,84815,33.0
+11643,Bachelors ,Skilled Manual,F,M,1,48814,27.0
+13484,Graduate Degree,Management,M,S,3,174979,60.0
+25969,Bachelors ,Skilled Manual,M,M,2,83972,33.0
+13228,Bachelors ,Management,M,M,0,92092,50.0
+22411,Bachelors ,Clerical,F,S,0,28631,19.0
+27304,Partial College,Professional,F,S,4,136345,40.0
+17060,Graduate Degree,Management,M,M,5,146136,30.0
+27563,Bachelors ,Professional,M,M,4,81701,38.0
+27527,Bachelors ,Management,F,S,2,141543,31.0
+28541,Partial College,Clerical,F,S,0,56926,23.0
+28214,Bachelors ,Professional,F,M,5,82457,29.0
+21533,Partial College,Professional,M,M,5,162339,44.0
+11826,Graduate Degree,Professional,F,M,0,95285,31.0
+18854,Partial High School,Skilled Manual,M,M,0,86037,43.0
+14349,High School,Skilled Manual,F,M,0,40322,21.0
+25254,High School,Skilled Manual,F,S,0,36732,21.0
+14190,High School,Professional,F,M,1,102964,46.0
+22796,Partial College,Professional,M,M,4,174110,40.0
+24309,High School,Professional,M,M,0,51756,23.0
+12768,High School,Clerical,M,M,0,48756,43.0
+27133,Partial College,Manual,M,M,0,24231,45.0
+25907,High School,Skilled Manual,F,M,1,39899,53.0
+28023,High School,Professional,F,S,0,37932,51.0
+21520,Bachelors ,Management,M,M,4,174465,52.0
+25554,Partial College,Manual,M,S,0,23574,54.0
+27715,Partial College,Skilled Manual,F,S,0,66663,36.0
+24917,Bachelors ,Professional,M,S,0,126067,27.0
+24788,Bachelors ,Skilled Manual,F,M,1,53076,27.0
+24378,Bachelors ,Professional,F,S,0,83631,29.0
+22049,Graduate Degree,Management,M,S,0,179580,30.0
+17872,Graduate Degree,Skilled Manual,M,M,0,100447,26.0
+11502,Partial College,Clerical,M,S,4,57598,22.0
+21074,Bachelors ,Skilled Manual,F,M,1,49490,32.0
+28153,Bachelors ,Professional,F,S,2,94208,34.0
+19940,Partial College,Management,F,M,5,140268,48.0
+29157,Graduate Degree,Professional,M,S,0,114882,30.0
+19775,High School,Skilled Manual,F,S,0,43168,22.0
+16182,Bachelors ,Professional,M,M,3,97455,33.0
+11068,High School,Skilled Manual,F,S,0,97067,42.0
+19864,Partial College,Professional,M,M,1,91953,49.0
+12498,Bachelors ,Skilled Manual,M,M,0,56259,34.0
+24232,Partial College,Skilled Manual,M,S,0,85419,18.0
+28314,Bachelors ,Professional,M,S,0,99220,35.0
+14753,Partial College,Clerical,M,M,0,58684,40.0
+12550,Partial College,Manual,M,M,0,10588,43.0
+24801,Graduate Degree,Professional,M,S,0,112760,26.0
+16327,Partial High School,Manual,M,S,0,11961,24.0
+19587,Bachelors ,Professional,F,M,5,107070,29.0
+14252,Graduate Degree,Management,F,M,3,100008,54.0
+15186,Graduate Degree,Management,F,M,1,152975,39.0
+25454,Bachelors ,Clerical,M,S,1,50308,30.0
+19857,Bachelors ,Management,F,S,0,95773,51.0
+17861,High School,Skilled Manual,F,S,2,38145,37.0
+18079,Bachelors ,Management,F,M,0,96231,50.0
+18706,Graduate Degree,Management,M,S,0,176859,28.0
+14603,Bachelors ,Skilled Manual,F,S,3,105276,32.0
+13401,High School,Professional,F,S,1,79068,45.0
+28447,Partial High School,Manual,M,S,0,22875,24.0
+23020,Partial College,Professional,F,M,0,92513,34.0
+21557,Partial College,Management,F,S,5,138417,23.0
+23206,Bachelors ,Professional,M,S,0,60462,33.0
+20429,Partial College,Skilled Manual,M,M,0,63838,44.0
+23214,Bachelors ,Professional,F,M,2,98371,34.0
+22027,Partial High School,Clerical,M,S,0,61302,18.0
+26370,High School,Manual,F,M,2,23980,32.0
+28518,Bachelors ,Clerical,F,S,0,66615,28.0
+28221,High School,Professional,F,M,0,82403,40.0
+17984,Bachelors ,Clerical,F,M,0,45937,30.0
+20321,Graduate Degree,Skilled Manual,F,M,1,92479,26.0
+19824,Partial College,Professional,M,S,5,119460,32.0
+20825,Graduate Degree,Clerical,F,M,0,51042,54.0
+26294,Graduate Degree,Skilled Manual,M,M,1,86388,25.0
+16574,Partial College,Manual,M,S,1,22071,29.0
+21938,Bachelors ,Professional,F,M,3,81089,38.0
+20482,Bachelors ,Professional,F,S,0,81033,35.0
+22186,Partial College,Skilled Manual,M,S,0,93275,22.0
+29439,Graduate Degree,Clerical,F,M,0,49862,36.0
+27050,Partial College,Clerical,F,S,0,48706,39.0
+27974,High School,Management,M,S,5,145944,24.0
+14579,Bachelors ,Skilled Manual,M,S,2,86885,29.0
+28264,Partial College,Professional,F,S,3,98215,36.0
+18630,Partial High School,Manual,F,S,0,17255,26.0
+22099,Graduate Degree,Management,M,M,0,148161,62.0
+21219,Bachelors ,Professional,F,S,0,79606,34.0
+28028,High School,Professional,M,S,1,73315,50.0
+26684,Bachelors ,Management,M,M,2,172780,32.0
+29361,Partial College,Manual,F,S,1,34734,30.0
+26987,Bachelors ,Skilled Manual,M,M,1,67114,24.0
+19783,High School,Skilled Manual,M,S,0,121842,42.0
+22362,Graduate Degree,Skilled Manual,M,M,0,142248,39.0
+24523,Bachelors ,Management,F,M,0,113066,29.0
+17657,Partial College,Clerical,M,M,4,57117,22.0
+13148,High School,Skilled Manual,M,M,0,48123,17.0
+25222,Partial College,Skilled Manual,F,S,0,78296,36.0
+22680,Bachelors ,Skilled Manual,M,M,0,62923,33.0
+18814,Partial College,Professional,M,S,0,126716,34.0
+20984,Partial College,Manual,F,M,0,19313,17.0
+24041,High School,Manual,M,M,0,17896,46.0
+16489,High School,Skilled Manual,M,M,0,58922,46.0
+18845,Graduate Degree,Management,F,M,0,105605,61.0
+13259,Partial College,Professional,M,M,4,172714,40.0
+20475,Bachelors ,Management,M,M,2,152629,32.0
+13277,Partial College,Professional,M,S,1,121942,32.0
+11796,Bachelors ,Skilled Manual,F,S,2,41342,28.0
+19120,Graduate Degree,Professional,M,M,0,117397,26.0
+22280,Bachelors ,Skilled Manual,M,M,3,48978,32.0
+29324,High School,Skilled Manual,F,M,0,46914,21.0
+11875,Partial College,Skilled Manual,M,M,0,86981,37.0
+14139,Graduate Degree,Clerical,F,M,0,62083,36.0
+24420,Partial College,Professional,M,M,2,107380,42.0
+24280,Partial High School,Clerical,M,S,0,42318,43.0
+18538,Bachelors ,Management,M,S,0,119578,54.0
+23841,Bachelors ,Skilled Manual,F,M,1,62594,27.0
+14959,Partial College,Clerical,M,S,2,42157,34.0
+14097,High School,Skilled Manual,M,M,0,56680,18.0
+13384,Partial College,Professional,M,S,1,91228,47.0
+19559,Graduate Degree,Management,M,M,5,145348,27.0
+12650,High School,Management,M,M,1,139530,47.0
+18777,Partial College,Skilled Manual,M,S,0,51734,23.0
+15831,Bachelors ,Management,M,M,0,77939,57.0
+28593,Partial High School,Clerical,F,S,0,29599,42.0
+24914,Bachelors ,Professional,F,M,0,101162,26.0
+20961,Bachelors ,Manual,M,M,0,27771,36.0
+22048,Bachelors ,Management,F,M,0,104790,30.0
+14338,High School,Skilled Manual,F,M,0,47840,19.0
+20830,Graduate Degree,Clerical,F,M,0,70881,36.0
+14697,Partial High School,Manual,M,S,0,25594,25.0
+23952,High School,Manual,M,S,0,24166,22.0
+17877,Bachelors ,Manual,M,S,0,31608,35.0
+17837,Partial College,Clerical,F,S,0,46080,20.0
+20543,Partial College,Professional,M,M,2,82332,46.0
+25894,Partial College,Professional,M,M,1,96515,46.0
+22863,Partial College,Professional,M,M,3,99777,41.0
+27826,Partial College,Clerical,M,S,4,52260,19.0
+25356,Partial High School,Clerical,M,M,1,34609,40.0
+18610,Bachelors ,Professional,F,S,2,90371,34.0
+16852,Bachelors ,Management,F,S,2,128405,34.0
+25360,High School,Skilled Manual,M,M,0,61309,40.0
+13487,Graduate Degree,Management,F,M,3,148975,60.0
+18963,Partial College,Skilled Manual,F,M,0,82391,35.0
+15698,Bachelors ,Management,F,S,5,135829,44.0
+21611,Graduate Degree,Professional,M,M,0,140433,27.0
+11258,Graduate Degree,Management,M,M,2,184897,64.0
+16036,Bachelors ,Manual,F,M,0,20517,36.0
+23354,Partial College,Professional,M,S,0,101507,23.0
+28641,Graduate Degree,Skilled Manual,F,M,0,57028,26.0
+25455,Partial High School,Manual,M,M,4,14562,31.0
+20996,Bachelors ,Clerical,M,S,0,30824,18.0
+12760,Graduate Degree,Skilled Manual,F,S,0,80827,31.0
+26843,High School,Manual,M,S,0,21679,68.0
+12939,Bachelors ,Skilled Manual,M,S,3,125963,32.0
+11807,Graduate Degree,Professional,M,M,0,111687,26.0
+17560,Graduate Degree,Skilled Manual,F,M,0,87038,25.0
+18998,Bachelors ,Management,M,M,0,87085,50.0
+11215,Partial High School,Skilled Manual,F,M,1,40247,47.0
+19116,Graduate Degree,Professional,M,S,0,119828,28.0
+15839,Partial College,Skilled Manual,M,S,0,62337,23.0
+13930,Partial College,Skilled Manual,F,M,0,68515,35.0
+12093,Partial College,Professional,M,M,1,102582,49.0
+19731,Graduate Degree,Management,M,M,0,139556,59.0
+12514,Partial College,Clerical,F,S,0,36660,20.0
+19038,Partial College,Professional,M,S,2,117312,43.0
+27156,Partial High School,Manual,F,M,0,23449,17.0
+26756,Bachelors ,Professional,F,S,5,98331,32.0
+21181,Bachelors ,Professional,F,S,3,88800,32.0
+21803,Partial High School,Skilled Manual,F,M,1,47635,46.0
+27431,Partial College,Professional,M,S,1,104148,47.0
+17685,Graduate Degree,Skilled Manual,F,S,0,119133,39.0
+12118,Partial College,Professional,F,M,1,76038,46.0
+17237,Bachelors ,Professional,F,S,0,89480,23.0
+11678,Graduate Degree,Professional,M,M,0,122608,28.0
+13583,High School,Professional,M,S,1,128720,43.0
+14907,Partial College,Clerical,F,M,0,64468,41.0
+20857,Partial College,Manual,M,S,0,19194,28.0
+24285,Partial College,Skilled Manual,M,S,0,50494,22.0
+24154,Bachelors ,Clerical,M,S,0,65238,56.0
+12299,Graduate Degree,Management,M,M,4,178373,52.0
+15690,Bachelors ,Management,M,S,4,167054,51.0
+27720,Partial College,Skilled Manual,M,M,4,100653,37.0
+24408,Bachelors ,Management,M,M,3,171379,34.0
+26764,Partial College,Skilled Manual,M,M,0,89465,36.0
+25829,High School,Management,F,M,5,115361,27.0
+22616,Graduate Degree,Clerical,M,S,0,90438,28.0
+13725,Partial College,Clerical,M,M,0,53572,43.0
+23990,Partial College,Manual,F,S,0,13511,54.0
+22830,Partial College,Management,M,M,5,156982,48.0
+26815,Graduate Degree,Professional,F,M,0,81160,32.0
+12095,Bachelors ,Management,M,M,1,87335,49.0
+16821,Bachelors ,Management,F,M,3,133419,39.0
+11597,Partial College,Clerical,F,S,3,45885,19.0
+13960,Bachelors ,Professional,F,S,5,82935,30.0
+23613,Bachelors ,Management,M,M,4,176428,53.0
+15694,Partial College,Professional,F,M,2,105288,44.0
+24816,Graduate Degree,Professional,F,M,0,106829,28.0
+24211,Graduate Degree,Skilled Manual,F,S,0,97084,28.0
+23627,Partial College,Management,F,S,4,110762,47.0
+14500,Bachelors ,Management,F,S,3,138097,60.0
+22223,Partial College,Professional,F,M,0,101465,40.0
+29068,High School,Skilled Manual,F,S,0,19108,50.0
